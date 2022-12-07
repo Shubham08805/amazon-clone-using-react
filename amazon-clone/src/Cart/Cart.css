@@ -1,0 +1,61 @@
+/* .Cart{
+    background-color: #EAEDED;
+    height: 600px;
+    width: 1360px;
+
+} */
+
+.cart-container{
+    display: flex;
+    height: 20rem;
+    width: 60rem;
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 0.5rem;
+    margin: 2rem 0.5rem 0.5rem 0.5rem;
+
+}
+.cart-container2{
+    width: 25rem;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    background-color: white;
+    
+}
+.cart-store{
+    height: 5rem;
+    width: 60rem;
+    background-color: white;
+    margin: 2rem 0.5rem 0.5rem 0.5rem;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+}
+.cart-sign-in{
+    padding: 5px;
+    margin: 10px 5px 5px 0px;
+    width: 15rem;
+    border-radius: 5px;
+    border-color: #ccc;
+}
+#cart-sign-in{
+    background-color: rgb(249, 193, 9);
+}
+.message{
+    margin:0.5rem;
+    font-size: small;
+    background-color: #EAEDED;
+    height: 5rem;
+}
+.cart-image{
+    width: 100%;
+    height: 150%;
+    max-height: 100%;
+    background-color: white
+}
+.your-amazon-cart-is-empty{
+    background-color: white;
+}
+/* .image{
+    height: 100px;
+    width: 100px;
+}  */

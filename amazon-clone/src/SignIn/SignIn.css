@@ -1,0 +1,49 @@
+.container{
+    display: grid;
+    justify-content: center;
+}
+.sign-in-box{
+    display: grid;
+    justify-content: center;
+    height: 20rem;
+    width: 20rem;
+    border:1px solid #cccc;
+    padding: 2rem;
+
+}
+.signup{
+    display: grid;
+    justify-content: center;
+
+}
+.new-to-amazon{
+    margin-left: 8.5rem ;
+}
+.sign-in-amazon-logo{
+    display: flex;
+    justify-content: center;
+    height: 5rem;
+    
+    
+}
+.sign-in-header-logo{
+    height: 100px;
+    width: 180px;
+    
+
+}
+.input{
+    padding: 7px;
+    
+    /* border: 1px solid black; */
+}
+#create-your-amazon-account{
+    width: 24rem;
+}
+.para{
+    font-size: small;
+
+}
+.nav-logo-locale{
+    color: black;
+}
